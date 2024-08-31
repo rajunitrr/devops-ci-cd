@@ -11,7 +11,7 @@
 	<groupId>com.rajuit.app</groupId>
 	<artifactId>sb-jenkins-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>sb-jenkins-demo</name>
+	<name>devops-ci-cd</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
